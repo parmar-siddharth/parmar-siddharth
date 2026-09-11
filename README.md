@@ -13,43 +13,17 @@ my development skills.
 ## 🛠️ Tech Stack
 
 ### Languages
-- Java
-- JavaScript
-- Python
-- SQL
+- Java, JavaScript, Python, SQL
 
 ### Frontend
-- HTML
-- CSS
-- React.js
-- Tailwind CSS
+- HTML, CSS, React.js, Tailwind CSS
 
 ### Backend
-- Java
-- Spring Boot
-- JDBC
-- Hibernate
+- Java, Spring Boot, JDBC, Hibernate
 
 ### Tools & Databases
-- Git
-- GitHub
-- Maven
-- MySQL
-- PostgreSQL
-- VS Code
-- IntelliJ IDEA
-
----
-
-## 🚀 Currently Learning
-
-- Spring Data JPA
-- Spring MVC
-- REST APIs
-- Spring Security
-- JWT
-- Backend Development
-
+- Git, GitHub, Maven, MySQL, PostgreSQL, VS Code, IntelliJ IDEA
+  
 ---
 
 ## 💻 Projects
