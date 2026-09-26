@@ -1,71 +1,41 @@
-# Hi, I'm Siddharth Parmar 👋
+# 👋 Hi, I'm Siddharth Parmar
 
-### B.Tech IT Student | Java Backend Developer
+### 💻 B.Tech IT Student | ☕ Java Backend Developer
 
-I'm a B.Tech Information Technology student focused on learning
-backend development with Java and Spring Boot.
-
-I enjoy solving problems, building projects, and continuously improving
-my development skills.
+🚀 Focused on **Java, Spring Boot, REST APIs & Backend Development**  
+🧠 Solving **DSA problems using Java**  
+🛠️ Building practical projects to strengthen my development skills
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Languages
-- Java, JavaScript, Python, SQL
-
-### Frontend
-- HTML, CSS, React.js, Tailwind CSS
-
-### Backend
-- Java, Spring Boot, JDBC, Hibernate
-
-### Tools & Databases
-- Git, GitHub, Maven, MySQL, PostgreSQL, VS Code, IntelliJ IDEA
-  
----
-
-## 💻 Projects
-
-### 🛒 ShopSphere
-Full-stack e-commerce application built with React.js and Spring Boot.
-
-### ✈️ TravelEase
-Travel-related full-stack web application built using React.js and Spring Boot.
+☕ **Java** • 🌱 **Spring Boot** • 🌐 **Spring MVC** • 🗄️ **JPA / Hibernate**  
+🔌 **JDBC** • 🐬 **SQL** • ⚛️ **React.js** • 🔧 **Git & GitHub**
 
 ---
 
-## 🧠 Data Structures & Algorithms
+### 🚀 Projects
 
-I practice Data Structures & Algorithms using Java
-and regularly solve problems on LeetCode.
+🛒 **ShopSphere**  
+A full-stack **e-commerce application** built with React.js and Spring Boot.  
+🔹 Includes product management, user functionality, REST APIs and database integration.
+
+✈️ **TravelEase**  
+A full-stack **travel application** built using React.js and Spring Boot.  
+🔹 Includes travel services, REST APIs, authentication and protected routes.
+
+---
+
+### 🧠 DSA
+
+💡 Practicing **Data Structures & Algorithms using Java**  
+🏆 Solving problems on **LeetCode**
 
 🔗 [LeetCode Profile](https://leetcode.com/u/Siddharth-parmar/)
 
 ---
 
-## 📚 Learning Journey
+### 🎯 Goal
 
-My repositories include projects and practice in:
-
-- Core Java
-- Data Structures & Algorithms
-- JavaScript
-- React.js
-- JDBC
-- Hibernate
-- Spring Framework
-- Spring Boot
-- SQL
-
----
-
-## 🎯 Goal
-
-To become a strong Java Backend Developer by continuously
-learning, building, and solving problems.
-
----
-
-⭐ Always Learning. Always Building.
+🔥 **Become a strong Java Backend Developer**
