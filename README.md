@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siddharth Parmar
 
-### 💻 B.Tech IT Student | ☕ Java Backend Developer
+### 💻 B.Tech (Information Technology) | ☕ Java Backend Developer
 
 🚀 Focused on **Java, Spring Boot, REST APIs & Backend Development**  
 🧠 Solving **DSA problems using Java**  
